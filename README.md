@@ -43,7 +43,7 @@ Alternatively, you can simply fork this repository on [GitHub](https://github.co
 
 ### With Proxy
 
-Visit the [VioletGG2](https://github.com/MonkeyGG2/VioletGG2) page to learn more about hosting MonkeyGG2 with a proxy.
+git clone --recursive https://github.com/MonkeyGG2/VioletGG2
 
 ### Running Locally
 
